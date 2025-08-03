@@ -48,6 +48,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/dD5n1Kn38XQAAAAC/chibi-cute.gif" width="160"/><br>
+  <img src="https://imgur.com/JW0GuZ1.gif" width="160"/><br>
   <i>“Keep coding and stay adorable!” 💫</i>
 </p>
